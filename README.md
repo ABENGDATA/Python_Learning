@@ -20,5 +20,13 @@ Hi everyone , welcome to my python learning repository 🐍🐍
 🐍 This is a result of plenty of time learning and researching about my passion 
 
 ## Python Basics for Data Science and analytics
-## Python Basic Modules 
+## Python Basic Modules (Spanish only)
+
 ## Python Basic Syntax 
+[1. Documentation : Lists(Spanish only)](https://github.com/ABENGDATA/Python_Learning/blob/fd52a5b3aa5a97760bbae73c544687c51bbe67f1/Documentation%20Basics/Lists%20Documentation%20-%20ESP%20V%201.1.ipynb)
+
+[2. Documentation :Strings(Spanish only)](https://github.com/ABENGDATA/Python_Learning/blob/fd52a5b3aa5a97760bbae73c544687c51bbe67f1/Documentation%20Basics/Strings_Documentation.ipynb)
+
+[3. Documentation :Sets and Dictionaries (Spanish only)](https://github.com/ABENGDATA/Python_Learning/blob/fd52a5b3aa5a97760bbae73c544687c51bbe67f1/Documentation%20Basics/Documentation%20-%20%20Sets%20and%20Dictionaries.ipynb)
+
+[4. Documentation : Functions and Classes (Spanish only)](https://github.com/ABENGDATA/Python_Learning/blob/fd52a5b3aa5a97760bbae73c544687c51bbe67f1/Documentation%20Basics/Documentation-Classes,Functions,lambdas%20.ipynb)
