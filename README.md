@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="600" height="300" src="pythongif.gif">
+</p>
+
 # Python Learning 
 <img align="right" width="30%" src="https://i.redd.it/y5s7p1z1mki51.png">
 
