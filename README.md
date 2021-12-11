@@ -19,6 +19,6 @@ Hi everyone , welcome to my python learning repository 🐍🐍
 
 🐍 This is a result of plenty of time learning and researching about my passion 
 
-## Python for Data Science and analytics
+## Python Basics for Data Science and analytics
 ## Python Basic Modules 
 ## Python Basic Syntax 
