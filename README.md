@@ -47,8 +47,8 @@ Hi everyone , welcome to my python learning repository 🐍🐍
 ## Python Basic Syntax 
 [Documentation : Lists (Spanish only)](https://github.com/ABENGDATA/Python_Learning/blob/fd52a5b3aa5a97760bbae73c544687c51bbe67f1/Documentation%20Basics/Lists%20Documentation%20-%20ESP%20V%201.1.ipynb)
 
-[Documentation :Strings (Spanish only)](https://github.com/ABENGDATA/Python_Learning/blob/fd52a5b3aa5a97760bbae73c544687c51bbe67f1/Documentation%20Basics/Strings_Documentation.ipynb)
+[Documentation : Strings (Spanish only)](https://github.com/ABENGDATA/Python_Learning/blob/fd52a5b3aa5a97760bbae73c544687c51bbe67f1/Documentation%20Basics/Strings_Documentation.ipynb)
 
-[Documentation :Sets and Dictionaries (Spanish only)](https://github.com/ABENGDATA/Python_Learning/blob/fd52a5b3aa5a97760bbae73c544687c51bbe67f1/Documentation%20Basics/Documentation%20-%20%20Sets%20and%20Dictionaries.ipynb)
+[Documentation : Sets and Dictionaries (Spanish only)](https://github.com/ABENGDATA/Python_Learning/blob/fd52a5b3aa5a97760bbae73c544687c51bbe67f1/Documentation%20Basics/Documentation%20-%20%20Sets%20and%20Dictionaries.ipynb)
 
 [Documentation : Functions and Classes (Spanish only)](https://github.com/ABENGDATA/Python_Learning/blob/fd52a5b3aa5a97760bbae73c544687c51bbe67f1/Documentation%20Basics/Documentation-Classes,Functions,lambdas%20.ipynb)
