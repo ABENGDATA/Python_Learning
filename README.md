@@ -19,7 +19,7 @@ Hi everyone , welcome to my python learning repository 🐍🐍
 
 🐍 This is a result of plenty of time learning and researching about my passion 
 
-## Python Basics for Data Science and analytics
+## Python Basics for Data Analysis
 
 [Data Analysis: Sales Analysis Minor Project](https://github.com/ABENGDATA/Python_Learning/blob/de65f07666d0936773ae4af589e6b7e545745ae3/Documentation%20Data%20S/Minor%20Project%20-%20Sales%20Analysis.ipynb)
 
