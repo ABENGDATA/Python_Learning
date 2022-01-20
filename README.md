@@ -19,7 +19,7 @@ Hi everyone , welcome to my python learning repository 🐍🐍
 
 🐍 This is a result of plenty of time learning and researching about my passion 
 
-## Python Basics for Data Analysis
+## Minor Projects with Kaggle Data 
 
 
 ## Python Basic Modules 
