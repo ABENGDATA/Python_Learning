@@ -20,6 +20,7 @@ Hi everyone , welcome to my python learning repository 🐍🐍
 🐍 This is a result of plenty of time learning and researching about my passion 
 
 ## Minor Projects with Kaggle Data 
+**Please click on the picture to enter to the notebook**
 
 [<img src="https://github.com/ABENGDATA/Python_Learning/blob/ff92754ca1c3dc47e3b6d311eb18d86c12456d05/Documentation%20Data%20S/clash%20royale%20project/crown_mini.png" width="250" height="180" />](https://github.com/ABENGDATA/Python_Learning/blob/ff92754ca1c3dc47e3b6d311eb18d86c12456d05/Documentation%20Data%20S/clash%20royale%20project/Clash%20Royale%20Data%20Set%20Exploration%20.ipynb)
 [<img src="https://github.com/ABENGDATA/Python_Learning/blob/ff92754ca1c3dc47e3b6d311eb18d86c12456d05/Documentation%20Data%20S/sales%20analysis%20project/salesData.jpg" width="250" height="180" />](https://github.com/ABENGDATA/Python_Learning/blob/ff92754ca1c3dc47e3b6d311eb18d86c12456d05/Documentation%20Data%20S/sales%20analysis%20project/Minor%20Project%20-%20Sales%20Analysis.ipynb)
