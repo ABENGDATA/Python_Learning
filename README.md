@@ -21,7 +21,9 @@ Hi everyone , welcome to my python learning repository 🐍🐍
 
 ## Minor Projects with Kaggle Data 
 
-
+[<img src="https://github.com/ABENGDATA/Python_Learning/blob/ff92754ca1c3dc47e3b6d311eb18d86c12456d05/Documentation%20Data%20S/clash%20royale%20project/crown_mini.png" width="250" height="180" />](https://github.com/ABENGDATA/Python_Learning/blob/ff92754ca1c3dc47e3b6d311eb18d86c12456d05/Documentation%20Data%20S/clash%20royale%20project/Clash%20Royale%20Data%20Set%20Exploration%20.ipynb)
+[<img src="https://github.com/ABENGDATA/Python_Learning/blob/ff92754ca1c3dc47e3b6d311eb18d86c12456d05/Documentation%20Data%20S/sales%20analysis%20project/salesData.jpg" width="250" height="180" />](https://github.com/ABENGDATA/Python_Learning/blob/ff92754ca1c3dc47e3b6d311eb18d86c12456d05/Documentation%20Data%20S/sales%20analysis%20project/Minor%20Project%20-%20Sales%20Analysis.ipynb)
+[<img src="https://github.com/ABENGDATA/Python_Learning/blob/ff92754ca1c3dc47e3b6d311eb18d86c12456d05/Documentation%20Data%20S/youtube%20data%20analysis%20project/video.jpg" width="250" height="180" />](https://github.com/ABENGDATA/Python_Learning/blob/ff92754ca1c3dc47e3b6d311eb18d86c12456d05/Documentation%20Data%20S/youtube%20data%20analysis%20project/Minor%20Project%20-%20Youtube%20Data%20Analysis.ipynb)
 ## Python Basic Modules 
 
 [Documentation : Collections Module (Spanish only)](https://github.com/ABENGDATA/Python_Learning/blob/a981e3ccfab092f8ae83b74276c2d53b2e239cd3/Documentation%20Modules%20Basics/Documentacion%20Collections%20.ipynb)
